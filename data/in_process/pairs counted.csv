@@ -1,0 +1,362 @@
+Source,Target,pair,Weight
+Jonas,Angelica,Jonas Angelica,62
+Jonas,Whispers,Jonas Whispers,26
+Jonas,Will,Jonas Will,167
+Jonas,Riley,Jonas Riley,6
+Jonas,Sun,Jonas Sun,1
+Jonas,Nomi,Jonas Nomi,34
+Jonas,Neets,Jonas Neets,1
+Jonas,Nurse,Jonas Nurse,1
+Jonas,Metzger,Jonas Metzger,4
+Jonas,Store guy,Jonas Store guy,6
+Jonas,Referee,Jonas Referee,1
+Jonas,Officer,Jonas Officer,2
+Jonas,Yrsa,Jonas Yrsa,8
+Angelica,Whispers,Angelica Whispers,36
+Angelica,Sun,Angelica Sun,3
+Angelica,Sarah,Angelica Sarah,1
+Whispers,Will,Whispers Will,8
+Whispers,Riley,Whispers Riley,2
+Whispers,Capheus,Whispers Capheus,1
+Whispers,Nomi,Whispers Nomi,5
+Whispers,Neets,Whispers Neets,4
+Whispers,Nurse,Whispers Nurse,2
+Whispers,Sarah,Whispers Sarah,1
+Whispers,Grace,Whispers Grace,3
+Whispers,Guard,Whispers Guard,1
+Sarah Patrell,Will,Sarah Patrell Will,3
+Will,Jacks,Will Jacks,3
+Will,Nocker,Will Nocker,3
+Will,Riley,Will Riley,135
+Will,Lito,Will Lito,8
+Will,Sun,Will Sun,5
+Will,Kala,Will Kala,14
+Will,Wolfgang,Will Wolfgang,5
+Will,Capheus,Will Capheus,5
+Will,Nomi,Will Nomi,89
+Will,Neets,Will Neets,9
+Will,Sergei,Will Sergei,1
+Will,Diego,Will Diego,195
+Will,Cop,Will Cop,3
+Will,Deshawn,Will Deshawn,77
+Will,Nurse,Will Nurse,25
+Will,Mike,Will Mike,31
+Will,Janet,Will Janet,11
+Will,Metzger,Will Metzger,2
+Will,Stiles,Will Stiles,42
+Will,Bar guy 2,Will Bar guy 2,3
+Will,Store guy,Will Store guy,18
+Will,Sarah,Will Sarah,1
+Will,Guru Yash,Will Guru Yash,1
+Will,Duncan,Will Duncan,22
+Will,Gunnar,Will Gunnar,2
+Will,Police captain,Will Police captain,10
+Will,Don Carlos,Will Don Carlos,2
+Will,Gang Member,Will Gang Member,1
+Will,Grace,Will Grace,2
+Will,Ludicrous Lincoln,Will Ludicrous Lincoln,6
+Will,Gang Member 1,Will Gang Member 1,1
+Will,Clete,Will Clete,3
+Will,Rental Agent,Will Rental Agent,9
+Will,Yrsa,Will Yrsa,7
+Will,Police Officer,Will Police Officer,4
+Will,Police Captain,Will Police Captain,5
+Will,Worshipper 1,Will Worshipper 1,1
+Will,Psychiatrist,Will Psychiatrist,1
+Will,Guard,Will Guard,1
+Will,Guard 1,Will Guard 1,1
+Will,Guard 2,Will Guard 2,2
+Will,Receptionist,Will Receptionist,8
+Jacks,Nyx,Jacks Nyx,27
+Jacks,Nocker,Jacks Nocker,6
+Jacks,Riley,Jacks Riley,54
+Nyx,Nocker,Nyx Nocker,3
+Nyx,Riley,Nyx Riley,28
+Nyx,Shugs,Nyx Shugs,3
+Nocker,Riley,Nocker Riley,3
+Riley,Sun,Riley Sun,35
+Riley,Kala,Riley Kala,1
+Riley,Capheus,Riley Capheus,24
+Riley,Nomi,Riley Nomi,2
+Riley,Neets,Riley Neets,1
+Riley,Diego,Riley Diego,12
+Riley,Bambie,Riley Bambie,15
+Riley,Shugs,Riley Shugs,36
+Riley,Gunnar,Riley Gunnar,27
+Riley,Min-Jung,Riley Min-Jung,1
+Riley,Yrsa,Riley Yrsa,49
+Riley,Sven,Riley Sven,15
+Riley,Magnus,Riley Magnus,18
+Riley,Musician 1,Riley Musician 1,4
+Riley,Musician 2,Riley Musician 2,2
+Riley,Nurse 1,Riley Nurse 1,1
+Padre,Nun,Padre Nun,6
+Padre,Lito,Padre Lito,6
+Padre,Director,Padre Director,3
+Nun,Lito,Nun Lito,57
+Lito,Director,Lito Director,95
+Lito,Sun,Lito Sun,6
+Lito,Wolfgang,Lito Wolfgang,14
+Lito,Steiner,Lito Steiner,9
+Lito,Nomi,Lito Nomi,26
+Lito,Nurse,Lito Nurse,9
+Lito,Reporter,Lito Reporter,15
+Lito,Daniela,Lito Daniela,337
+Lito,Hernando,Lito Hernando,267
+Lito,Doctor,Lito Doctor,9
+Lito,Joaquin,Lito Joaquin,63
+Lito,Makeup artist,Lito Makeup artist,9
+Lito,Driver,Lito Driver,2
+Lito,Henchman,Lito Henchman,1
+Lito,Interviewer,Lito Interviewer,8
+Lito,Prison Doctor,Lito Prison Doctor,5
+Lito,Fan,Lito Fan,4
+Lito,Actress,Lito Actress,1
+Lito,Barista,Lito Barista,21
+Lito,Mailbox voice,Lito Mailbox voice,2
+Director,Joaquin,Director Joaquin,9
+Secretary,Sun,Secretary Sun,21
+Secretary,Sarah,Secretary Sarah,3
+Sun,Yuen,Sun Yuen,21
+Sun,Joong-Ki,Sun Joong-Ki,27
+Sun,Kala,Sun Kala,2
+Sun,Capheus,Sun Capheus,29
+Sun,Nomi,Sun Nomi,5
+Sun,Reporter,Sun Reporter,2
+Sun,Mi-Cha,Sun Mi-Cha,9
+Sun,Sensei,Sun Sensei,4
+Sun,Thug,Sun Thug,2
+Sun,Githu,Sun Githu,7
+Sun,Kang-Dae,Sun Kang-Dae,18
+Sun,Bouncer,Sun Bouncer,8
+Sun,Interviewer,Sun Interviewer,1
+Sun,Prison Doctor,Sun Prison Doctor,5
+Sun,Prison Officer,Sun Prison Officer,4
+Sun,Prisoner,Sun Prisoner,1
+Sun,Soo-Jin,Sun Soo-Jin,16
+Sun,Min-Jung,Sun Min-Jung,2
+Sun,Prisoner 1,Sun Prisoner 1,7
+Sun,Prisoner 2,Sun Prisoner 2,1
+Sun,Prisoner Officer,Sun Prisoner Officer,1
+Sun,Lawyer,Sun Lawyer,2
+Sun,Thug 1,Sun Thug 1,2
+Sun,Thug Woman,Sun Thug Woman,1
+Sun,Guard 1,Sun Guard 1,1
+Yuen,Joong-Ki,Yuen Joong-Ki,3
+Joong-Ki,Kang-Dae,Joong-Ki Kang-Dae,20
+Joong-Ki,Prison Officer,Joong-Ki Prison Officer,5
+Kala,Sanyam,Kala Sanyam,62
+Kala,Wolfgang,Kala Wolfgang,75
+Kala,Capheus,Kala Capheus,26
+Kala,Nomi,Kala Nomi,1
+Kala,Sergei,Kala Sergei,1
+Kala,Rajan,Kala Rajan,64
+Kala,Devi,Kala Devi,6
+Kala,Daya,Kala Daya,20
+Kala,Manendra,Kala Manendra,16
+Kala,Priya,Kala Priya,11
+Kala,Presenter,Kala Presenter,6
+Kala,Guru Yash,Kala Guru Yash,21
+Kala,Aunty Ina,Kala Aunty Ina,6
+Kala,Woman 2,Kala Woman 2,1
+Kala,Tula,Kala Tula,5
+Kala,Wedding Planner 1,Kala Wedding Planner 1,1
+Kala,Detective 1,Kala Detective 1,4
+Kala,Detective 2,Kala Detective 2,4
+Kala,Sahana,Kala Sahana,5
+Kala,Van Damme,Kala Van Damme,1
+Kala,Worshipper 1,Kala Worshipper 1,4
+Kala,Worshipper 2,Kala Worshipper 2,3
+Sanyam,Rajan,Sanyam Rajan,15
+Sanyam,Manendra,Sanyam Manendra,15
+Sanyam,Priya,Sanyam Priya,10
+Sanyam,Planner 1,Sanyam Planner 1,4
+Priest,Felix,Priest Felix,3
+Felix,Wolfgang,Felix Wolfgang,143
+Felix,Steiner,Felix Steiner,9
+Felix,Teacher,Felix Teacher,6
+Felix,Daya,Felix Daya,2
+Felix,Abraham,Felix Abraham,18
+Felix,Saleswoman,Felix Saleswoman,6
+Felix,Sommelier,Felix Sommelier,6
+Felix,Karaoke girl,Felix Karaoke girl,2
+Felix,Woman,Felix Woman,2
+Felix,Conan,Felix Conan,2
+Felix,Young Tough 1,Felix Young Tough 1,2
+Felix,Anton,Felix Anton,1
+Wolfgang,Steiner,Wolfgang Steiner,15
+Wolfgang,Sergei's Wife,Wolfgang Sergei's Wife,3
+Wolfgang,Sergei,Wolfgang Sergei,11
+Wolfgang,Daniela,Wolfgang Daniela,1
+Wolfgang,Rajan,Wolfgang Rajan,1
+Wolfgang,Anja,Wolfgang Anja,30
+Wolfgang,Doctor,Wolfgang Doctor,6
+Wolfgang,Abraham,Wolfgang Abraham,14
+Wolfgang,Sommelier,Wolfgang Sommelier,2
+Wolfgang,Karaoke girl,Wolfgang Karaoke girl,2
+Wolfgang,Conan,Wolfgang Conan,1
+Wolfgang,Young Tough 1,Wolfgang Young Tough 1,2
+Wolfgang,Young Tough 2,Wolfgang Young Tough 2,1
+Steiner,Henchman 1,Steiner Henchman 1,4
+Steiner,Henchman 2,Steiner Henchman 2,3
+Shiro,Capheus,Shiro Capheus,53
+Shiro,Jela,Shiro Jela,3
+Shiro,Githu,Shiro Githu,2
+Shiro,Grandpa Capheus,Shiro Grandpa Capheus,3
+Shiro,Grandma Capheus,Shiro Grandma Capheus,2
+Capheus,Nomi,Capheus Nomi,3
+Capheus,Jela,Capheus Jela,152
+Capheus,Widow,Capheus Widow,6
+Capheus,Batvan Driver,Capheus Batvan Driver,3
+Capheus,Mr. Fuck Off,Capheus Mr. Fuck Off,6
+Capheus,Thug,Capheus Thug,6
+Capheus,Githu,Capheus Githu,48
+Capheus,Officer,Capheus Officer,6
+Capheus,Passenger,Capheus Passenger,2
+Capheus,Silas,Capheus Silas,32
+Capheus,Amondi,Capheus Amondi,17
+Capheus,Elena,Capheus Elena,2
+Nomi,Neets,Nomi Neets,336
+Nomi,Green Fairy,Nomi Green Fairy,6
+Nomi,Purple Fairy,Nomi Purple Fairy,9
+Nomi,Sam,Nomi Sam,12
+Nomi,Patron,Nomi Patron,9
+Nomi,Diego,Nomi Diego,4
+Nomi,Nurse,Nomi Nurse,47
+Nomi,Janet,Nomi Janet,41
+Nomi,Metzger,Nomi Metzger,39
+Nomi,Police,Nomi Police,6
+Nomi,Gunnar,Nomi Gunnar,1
+Nomi,Disney,Nomi Disney,3
+Nomi,Grace,Nomi Grace,9
+Nomi,Bug,Nomi Bug,22
+Nomi,Rental Agent,Nomi Rental Agent,2
+Nomi,Agent,Nomi Agent,2
+Nomi,Police Officer,Nomi Police Officer,3
+Nomi,Punk 1,Nomi Punk 1,3
+Nomi,Punk 2,Nomi Punk 2,1
+Nomi,Receptionist,Nomi Receptionist,2
+Neets,Green Fairy,Neets Green Fairy,3
+Neets,Purple Fairy,Neets Purple Fairy,12
+Neets,Sam,Neets Sam,12
+Neets,Nurse,Neets Nurse,2
+Neets,Teagan,Neets Teagan,3
+Neets,Metzger,Neets Metzger,12
+Neets,Lola,Neets Lola,14
+Neets,Officer,Neets Officer,4
+Neets,Gunnar,Neets Gunnar,1
+Neets,Disney,Neets Disney,2
+Neets,Grace,Neets Grace,9
+Neets,Bug,Neets Bug,3
+Neets,Rental Agent,Neets Rental Agent,1
+Neets,Neighbor,Neets Neighbor,1
+Neets,Agent,Neets Agent,6
+Neets,Police Officer,Neets Police Officer,1
+Sergei's Wife,Sergei,Sergei's Wife Sergei,6
+Sergei,Henchman,Sergei Henchman,1
+Jela,Widow,Jela Widow,12
+Jela,Batvan Driver,Jela Batvan Driver,3
+Jela,Farmer,Jela Farmer,27
+Jela,Mr. Fuck Off,Jela Mr. Fuck Off,60
+Jela,Officer,Jela Officer,6
+Jela,Passenger,Jela Passenger,2
+Jela,Amondi,Jela Amondi,3
+Jela,Elena,Jela Elena,2
+Widow,Thug,Widow Thug,6
+Widow,Githu,Widow Githu,6
+Green Fairy,Purple Fairy,Green Fairy Purple Fairy,9
+Sam,Dyke 1,Sam Dyke 1,6
+Patron,Patron 2,Patron Patron 2,3
+Patron,Patron 3,Patron Patron 3,3
+Patron,Narrator,Patron Narrator,3
+Patron 2,Patron 3,Patron 2 Patron 3,3
+Diego,Cop,Diego Cop,3
+Diego,Deshawn,Diego Deshawn,9
+Diego,Stiles,Diego Stiles,6
+Diego,Gang Member,Diego Gang Member,1
+Diego,Ludicrous Lincoln,Diego Ludicrous Lincoln,3
+Diego,Gang Member 1,Diego Gang Member 1,1
+Diego,Clete,Diego Clete,1
+Diego,Rental Agent,Diego Rental Agent,1
+Diego,Police Officer,Diego Police Officer,1
+Deshawn,Nurse,Deshawn Nurse,3
+Deshawn,Mike,Deshawn Mike,6
+Deshawn,Ludicrous Lincoln,Deshawn Ludicrous Lincoln,3
+Deshawn,Clete,Deshawn Clete,1
+Nurse,Janet,Nurse Janet,6
+Nurse,Metzger,Nurse Metzger,5
+Nurse,Stiles,Nurse Stiles,3
+Nurse,Sarah,Nurse Sarah,3
+Nurse,Nurse 2,Nurse Nurse 2,3
+Nurse,Nurse 1,Nurse Nurse 1,3
+Mike,Bar guy,Mike Bar guy,6
+Mike,Bar guy 2,Mike Bar guy 2,3
+Teagan,Janet,Teagan Janet,21
+Janet,Metzger,Janet Metzger,17
+Metzger,Nurse 2,Metzger Nurse 2,3
+Metzger,Neighbor,Metzger Neighbor,1
+Reporter,Daniela,Reporter Daniela,9
+Daniela,Hernando,Daniela Hernando,84
+Daniela,Joaquin,Daniela Joaquin,22
+Daniela,Fan,Daniela Fan,1
+Rajan,Crowd,Rajan Crowd,6
+Rajan,Manendra,Rajan Manendra,3
+Rajan,Priya,Rajan Priya,3
+Rajan,Planner 1,Rajan Planner 1,10
+Rajan,Planner 2,Rajan Planner 2,4
+Rajan,Detective 1,Rajan Detective 1,6
+Rajan,Detective 2,Rajan Detective 2,5
+Devi,Presenter,Devi Presenter,18
+Manendra,Planner 1,Manendra Planner 1,6
+Manendra,Planner 2,Manendra Planner 2,10
+Priya,Aunty Ina,Priya Aunty Ina,4
+Hernando,Doctor,Hernando Doctor,3
+Hernando,Joaquin,Hernando Joaquin,4
+Hernando,Driver,Hernando Driver,1
+Hernando,Fan,Hernando Fan,1
+Detective,Stiles,Detective Stiles,3
+Bar guy,Bar guy 2,Bar guy Bar guy 2,12
+Sarah,Mi-Cha,Sarah Mi-Cha,3
+Sarah,Psychiatrist,Sarah Psychiatrist,1
+Bambie,Shugs,Bambie Shugs,64
+Thug,Githu,Thug Githu,12
+Thug,Announcer,Thug Announcer,3
+Thug,Thug 1,Thug Thug 1,1
+Githu,Silas,Githu Silas,6
+Githu,Thug 2,Githu Thug 2,1
+Announcer,Fighter,Announcer Fighter,3
+Fighter,Referee,Fighter Referee,21
+Planner 1,Planner 2,Planner 1 Planner 2,18
+Guru Yash,Worshipper 1,Guru Yash Worshipper 1,1
+Guru Yash,Worshipper 2,Guru Yash Worshipper 2,1
+Silas,Amondi,Silas Amondi,14
+Gunnar,Musician 1,Gunnar Musician 1,2
+Henchman,Mourner,Henchman Mourner,1
+Woman 1,Woman 2,Woman 1 Woman 2,1
+Woman 2,Woman 3,Woman 2 Woman 3,2
+Amondi,Bodyguard,Amondi Bodyguard,1
+Lawyer 1,Lawyer 2,Lawyer 1 Lawyer 2,3
+Lawyer 1,Judge,Lawyer 1 Judge,2
+Lawyer 2,Judge,Lawyer 2 Judge,1
+Interviewer,Prison Doctor,Interviewer Prison Doctor,1
+Prison Officer,Soo-Jin,Prison Officer Soo-Jin,3
+Prison Officer,Prisoner 1,Prison Officer Prisoner 1,1
+Prisoner,Soo-Jin,Prisoner Soo-Jin,2
+Prisoner,Min-Jung,Prisoner Min-Jung,2
+Soo-Jin,Min-Jung,Soo-Jin Min-Jung,2
+Soo-Jin,Prisoner 1,Soo-Jin Prisoner 1,2
+Grandpa Capheus,Grandma Capheus,Grandpa Capheus Grandma Capheus,2
+Grandma Capheus,Elder,Grandma Capheus Elder,2
+Yrsa,Magnus,Yrsa Magnus,1
+Prisoner 1,Prisoner 2,Prisoner 1 Prisoner 2,1
+Prisoner 1,Prisoner Officer,Prisoner 1 Prisoner Officer,1
+Young Tough 1,Young Tough 2,Young Tough 1 Young Tough 2,1
+Wedding Planner 1,Wedding Planner 2,Wedding Planner 1 Wedding Planner 2,6
+Police Officer,Police Captain,Police Officer Police Captain,1
+Mourner,Actress,Mourner Actress,1
+Detective 1,Detective 2,Detective 1 Detective 2,3
+Punk 1,Punk 2,Punk 1 Punk 2,1
+Henchman 1,Henchman 2,Henchman 1 Henchman 2,1
+Thug 1,Thug 2,Thug 1 Thug 2,1
+Worshipper 1,Worshipper 2,Worshipper 1 Worshipper 2,2
+Guard,Guard 1,Guard Guard 1,1

@@ -1,0 +1,22 @@
+
+## References
+* https://www.macalester.edu/~abeverid/thrones.html
+* http://www.briansarnacki.com/gephi-tutorial/
+* https://seinecle.github.io/gephi-tutorials/generated-html/using-filters-en.html
+* http://www.imdb.com/title/tt2431438/epcast
+* https://en.wikipedia.org/wiki/List_of_Sense8_characters#In_Seoul.2C_South_Korea
+
+## Get Sense8 subs with speakers
+* convert srt's to text
+* delete dashes at the start of each line
+* get cast for each episode http://www.imdb.com/title/tt2431438/epcast
+* input character column to each start of character sentence
+
+## Improvements
+* use actual script text to include name mentions to link analysis
+* outgoing incoming edges in network
+Will|Nomi|Lito|Kala|Riley|Wolfgang|Capheus|Sun
+Diego|Neets|Hernando|Daniela|Rajan|Felix|Jela
+
+## Gephi buttons
+* Change size of edges - rename edge size column name to "Weight"

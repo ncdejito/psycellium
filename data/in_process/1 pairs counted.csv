@@ -1,0 +1,58 @@
+"","Source","Target","pair","Weight"
+"1","Jonas","Angelica","Jonas Angelica",20
+"2","Jonas","Whispers","Jonas Whispers",5
+"46","Angelica","Whispers","Angelica Whispers",12
+"133","Sarah Patrell","Will","Sarah Patrell Will",1
+"175","Will","Jacks","Will Jacks",1
+"177","Will","Nocker","Will Nocker",1
+"178","Will","Riley","Will Riley",9
+"211","Will","Diego","Will Diego",32
+"212","Will","Cop","Will Cop",1
+"213","Will","Deshawn","Will Deshawn",9
+"215","Will","Nurse","Will Nurse",11
+"216","Jacks","Nyx","Jacks Nyx",9
+"217","Jacks","Nocker","Jacks Nocker",2
+"218","Jacks","Riley","Jacks Riley",18
+"256","Nyx","Nocker","Nyx Nocker",1
+"257","Nyx","Riley","Nyx Riley",7
+"295","Nocker","Riley","Nocker Riley",1
+"365","Riley","Diego","Riley Diego",2
+"370","Padre","Nun","Padre Nun",2
+"371","Padre","Lito","Padre Lito",2
+"372","Padre","Director","Padre Director",1
+"406","Nun","Lito","Nun Lito",16
+"441","Lito","Director","Lito Director",10
+"508","Secretary","Sun","Secretary Sun",2
+"540","Sun","Yuen","Sun Yuen",7
+"571","Yuen","Joong-Ki","Yuen Joong-Ki",1
+"630","Kala","Sanyam","Kala Sanyam",13
+"685","Priest","Felix","Priest Felix",1
+"711","Felix","Wolfgang","Felix Wolfgang",21
+"712","Felix","Steiner","Felix Steiner",3
+"734","Felix","Teacher","Felix Teacher",2
+"736","Wolfgang","Steiner","Wolfgang Steiner",1
+"741","Wolfgang","Sergei's Wife","Wolfgang Sergei's Wife",1
+"783","Shiro","Capheus","Shiro Capheus",3
+"809","Capheus","Jela","Capheus Jela",9
+"811","Capheus","Batvan Driver","Capheus Batvan Driver",1
+"826","Nomi","Neets","Nomi Neets",25
+"833","Nomi","Green Fairy","Nomi Green Fairy",2
+"834","Nomi","Purple Fairy","Nomi Purple Fairy",3
+"835","Nomi","Sam","Nomi Sam",4
+"837","Nomi","Patron","Nomi Patron",3
+"852","Neets","Green Fairy","Neets Green Fairy",1
+"853","Neets","Purple Fairy","Neets Purple Fairy",4
+"854","Neets","Sam","Neets Sam",4
+"865","Sergei's Wife","Sergei","Sergei's Wife Sergei",2
+"900","Jela","Widow","Jela Widow",4
+"901","Jela","Batvan Driver","Jela Batvan Driver",1
+"902","Jela","Farmer","Jela Farmer",9
+"958","Green Fairy","Purple Fairy","Green Fairy Purple Fairy",3
+"981","Sam","Dyke 1","Sam Dyke 1",2
+"1000","Patron","Patron 2","Patron Patron 2",1
+"1001","Patron","Patron 3","Patron Patron 3",1
+"1002","Patron","Narrator","Patron Narrator",1
+"1008","Patron 2","Patron 3","Patron 2 Patron 3",1
+"1026","Diego","Cop","Diego Cop",1
+"1027","Diego","Deshawn","Diego Deshawn",1
+"1034","Deshawn","Nurse","Deshawn Nurse",1
